@@ -1,0 +1,2 @@
+点击exe文件夹下的compiler.exe文件即可
+生成中间代码文件iterCode.txt和目标代码objectCode.asm在exe文件夹下
